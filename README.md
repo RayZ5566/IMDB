@@ -1,6 +1,6 @@
 # IMDb
 
-![cchat1](/readme/IMDb_Header_Page.jpg)
+![imdb1](/readme/IMDb_Header_Page.jpg)
 ### Objectives:
 Create a movie recommendation system  
 (1) develop a movie recommendation system based on rating  
